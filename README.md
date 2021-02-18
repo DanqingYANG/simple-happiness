@@ -1,2 +1,2 @@
 # simple-happiness
-a collection of test file samples
+a collection of test samples
